@@ -26,9 +26,14 @@ A Python-based command-line utility for **checking password strength**, **detect
    cd password-security-tool
 
 
-1. **Install dependncies**
+2. **Install dependncies**
    ```bash
    pip install requests
+
+3. **Install dependncies**
+   ```bash
+   Run the tool
+   
 
 
 bash
@@ -107,6 +112,7 @@ Never enter real passwords you currently use unless you trust your environment.
 🤝 Contributing
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you'd like to change.
+
 
 
 
