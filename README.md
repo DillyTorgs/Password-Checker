@@ -1,5 +1,3 @@
-﻿# Password-Checker
-
 # 🔐 Password Security Tool
 
 A Python-based command-line utility for **checking password strength**, **detecting compromised passwords** via HaveIBeenPwned, and **generating strong passwords** or passphrases.
