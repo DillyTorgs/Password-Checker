@@ -26,6 +26,12 @@ A Python-based command-line utility for **checking password strength**, **detect
    cd password-security-tool
 Install dependencies
 
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/yourusername/password-security-tool.git
+   cd password-security-tool
+Install dependencies
+
 pip install requests
 
 
@@ -105,4 +111,5 @@ Never enter real passwords you currently use unless you trust your environment.
 🤝 Contributing
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you'd like to change.
+
 
