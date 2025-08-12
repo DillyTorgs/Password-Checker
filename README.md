@@ -44,8 +44,11 @@ Enter password to test: MyP@ssw0rd123!
 Strength: Strong
 Entropy: 78.58 bits
 
+---
+
 2. **Weak or moderate passwords will get:**                                       
    ```bash
+
 
 
 
