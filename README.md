@@ -58,52 +58,6 @@ Random: U#e%zP2$Q8!tW3^b
 Passphrase: bravo-uniform-zulu-sierra
 
 
-## 📂 Project Structure
- ```bash
-
-password_tool.py   # Main script
-README.md          # Documentation
-
-📊 Entropy Calculation
-Entropy is calculated as:
-
-```bash
-Entropy = length_of_password × log2(possible_characters)
-
-Where:
-Lowercase letters: 26 possible chars
-Uppercase letters: 26 possible chars
-Numbers: 10 possible chars
-Symbols: 32 possible chars (from string.punctuation)
-Higher entropy = more randomness = harder to crack.
-
-🌐 Breach Checking
-This tool never sends your password in full.
-It:
-
-Hashes your password with SHA-1.
-
-Sends only the first 5 characters of the hash to the HaveIBeenPwned API.
-
-Compares the returned list of matching hashes locally.
-
-📄 License
-This project is licensed under the MIT License.
-Feel free to use, modify, and distribute.
-
-⚠️ Disclaimer
-This tool is for educational and personal security purposes.
-Never enter real passwords you currently use unless you trust your environment.
-
-🤝 Contributing
-Pull requests are welcome!
-For major changes, open an issue first to discuss what you'd like to change.
-
-
-
-
-
-
 
 
 
