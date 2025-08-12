@@ -71,15 +71,10 @@ Entropy is calculated as:
 Entropy = length_of_password × log2(possible_characters)
 
 Where:
-
 Lowercase letters: 26 possible chars
-
 Uppercase letters: 26 possible chars
-
 Numbers: 10 possible chars
-
 Symbols: 32 possible chars (from string.punctuation)
-
 Higher entropy = more randomness = harder to crack.
 
 🌐 Breach Checking
@@ -103,6 +98,7 @@ Never enter real passwords you currently use unless you trust your environment.
 🤝 Contributing
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you'd like to change.
+
 
 
 
