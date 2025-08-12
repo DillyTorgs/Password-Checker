@@ -37,7 +37,7 @@ A Python-based command-line utility for **checking password strength**, **detect
    ## 🚀 Usage
 When you run the script, you'll be prompted to enter a password to check:
  
-```bash
+   ```bash
 $ python password_tool.py
 === Password Security Tool ===
 Enter password to test: MyP@ssw0rd123!
@@ -45,7 +45,7 @@ Strength: Strong
 Entropy: 78.58 bits
 ---
    **If the password is weak or moderate you'll receive suggestions and some secure alternatives:**
-
+`\`\`\``
 ```bash
 Strength: Weak
 Entropy: 25.76 bits
@@ -56,6 +56,7 @@ Suggestions:
 Try one of these:
 Random: U#e%zP2$Q8!tW3^b
 Passphrase: bravo-uniform-zulu-sierra
+
 
 
 
