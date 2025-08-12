@@ -34,7 +34,7 @@ A Python-based command-line utility for **checking password strength**, **detect
    ```bash
    python password_tool.py
    
- 4.    **🚀 Usage**
+      ##🚀 Usage
 When you run the script, you'll be prompted to enter a password to check:
  
 ```bash
@@ -98,6 +98,7 @@ Never enter real passwords you currently use unless you trust your environment.
 🤝 Contributing
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you'd like to change.
+
 
 
 
