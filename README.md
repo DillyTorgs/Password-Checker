@@ -64,7 +64,7 @@ A Python-based command-line utility for **checking password strength**, **detect
 4. **Entropy Calculation**
    ```bash
    Entropy = length_of_password × log2(possible_characters)
-## Where: Lowercase letters: 26 possible chars,
+**Where: Lowercase letters: 26 possible chars,**
 ## Uppercase letters: 26 possible chars, 
 ## Numbers: 10 possible chars, 
 ## Symbols: 32 possible chars (from string.punctuation), 
@@ -84,6 +84,7 @@ A Python-based command-line utility for **checking password strength**, **detect
 ## ⚠️ Disclaimer
 ## This tool is for educational and personal security purposes.
 ## Never enter real passwords you currently use unless you trust your environment.
+
 
 
 
