@@ -44,7 +44,7 @@ Enter password to test: MyP@ssw0rd123!
 Strength: Strong
 Entropy: 78.58 bits
 ---
-
+                          
 
 
 
