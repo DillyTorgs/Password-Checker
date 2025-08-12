@@ -43,9 +43,8 @@ $ python password_tool.py
 Enter password to test: MyP@ssw0rd123!
 Strength: Strong
 Entropy: 78.58 bits
-
 ---
-## If the password is weak or moderate, you'll receive suggestions and some secure alternatives:          
+   ## If the password is weak or moderate, you'll receive suggestions and some secure alternatives:          
 
 Strength: Weak
 Entropy: 25.76 bits
@@ -56,6 +55,7 @@ Suggestions:
 Try one of these:
 Random: U#e%zP2$Q8!tW3^b
 Passphrase: bravo-uniform-zulu-sierra
+
 
 
 
