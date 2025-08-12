@@ -41,7 +41,6 @@ When you run the script, you'll be prompted to enter a password to check:
 $ python password_tool.py
 === Password Security Tool ===
 Enter password to test: MyP@ssw0rd123!
-
 Strength: Strong
 Entropy: 78.58 bits
 
@@ -104,6 +103,7 @@ Never enter real passwords you currently use unless you trust your environment.
 🤝 Contributing
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you'd like to change.
+
 
 
 
