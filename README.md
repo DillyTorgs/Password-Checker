@@ -55,9 +55,16 @@ A Python-based command-line utility for **checking password strength**, **detect
    Try one of these:
    Random: U#e%zP2$Q8!tW3^b
    Passphrase: bravo-uniform-zulu-sierra
-
-   
-
+---
+3. **Project Structure**
+   ```bash
+   password_tool.py   # Main script
+   README.md          # Documentation
+---
+4. **Entropy Calculation**
+   ```bash
+   Entropy = length_of_password × log2(possible_characters)
+## Where: Lowercase letters: 26 possible chars, Uppercase letters: 26 possible chars, Numbers: 10 possible chars, Symbols: 32 possible chars (from string.punctuation), Higher entropy = more randomness = harder to crack.
 
 
 
