@@ -45,7 +45,7 @@ Enter password to test: MyP@ssw0rd123!
 Strength: Strong
 Entropy: 78.58 bits
 
-If the password is weak or moderate, you'll receive suggestions and some secure alternatives:
+## If the password is weak or moderate, you'll receive suggestions and some secure alternatives:
 
  ```bash
 Strength: Weak
@@ -58,7 +58,7 @@ Try one of these:
 Random: U#e%zP2$Q8!tW3^b
 Passphrase: bravo-uniform-zulu-sierra
 
-📂 Project Structure
+## 📂 Project Structure
  ```bash
 
 password_tool.py   # Main script
@@ -103,6 +103,7 @@ Never enter real passwords you currently use unless you trust your environment.
 🤝 Contributing
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you'd like to change.
+
 
 
 
