@@ -46,6 +46,18 @@ A Python-based command-line utility for **checking password strength**, **detect
 
 2. **Weak or moderate passwords will get:**
    ```bash
+   Strength: Weak
+   Entropy: 25.76 bits
+   Suggestions:
+   - Use at least 12 characters (yours is 8).
+   - Add special symbols.
+
+   Try one of these:
+   Random: U#e%zP2$Q8!tW3^b
+   Passphrase: bravo-uniform-zulu-sierra
+
+   
+
 
 
 
